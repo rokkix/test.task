@@ -14,7 +14,7 @@ const DEFAULT_ACTION = 'All';
 //$start = isset($_GET['start']) ? $_GET['start'] : 0;
 $act = isset($_GET['act']) ? ucfirst($_GET['act']) : 'All';
 $ctrl = isset($_GET['ctrl']) ? ucfirst($_GET['ctrl']) : 'Ad';
-//test///
+//test//////
 
 //var_dump($act);
 //var_dump($ctrl);
